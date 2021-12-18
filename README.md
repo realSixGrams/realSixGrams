@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @realSixGrams
+- 🌱 I’m currently learning Lua/JS
+- 📫 Reach me @ SixGrams#0544
