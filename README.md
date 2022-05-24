@@ -1,8 +1,8 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realSixGrams&theme=hacker&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realSixGrams&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=hacker)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&layout=hacker)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&layout=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a passionate programmer for FiveM!!
 
