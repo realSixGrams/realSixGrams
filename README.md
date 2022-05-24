@@ -11,9 +11,7 @@
 - 📫 Contact me Via Discord @ SixGrams#0544
 - 🥅 2022 Goal: Earn $150,000
 
-<img align="left" alt="Visual Studio Code" width="260" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-style="padding-right:10px;"
+<img align="left" alt="Visual Studio Code" width="260" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
